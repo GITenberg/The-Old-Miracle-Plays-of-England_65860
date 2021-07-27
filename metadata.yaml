@@ -1,10 +1,13 @@
 _repo: The-Old-Miracle-Plays-of-England_65860
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Thorp, Helen
     gutenberg_agent_id: '53530'
     url: http://www.gutenberg.org/2009/agents/53530
+covers:
+- cover_type: archival
+  image_path: 65860-h/images/cover.jpg
 creator:
   author:
     agent_name: Syrett, Netta
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6244
     wikipedia: https://en.wikipedia.org/wiki/Netta_Syrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65860#The-Old-Miracle-Plays-of-England
 gutenberg_issued: '2021-07-17'
 gutenberg_type: Text
 identifiers:
